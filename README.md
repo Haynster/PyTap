@@ -35,5 +35,5 @@ from PIL import Image
 youll need ffmpeg installed on your computer
 
 ```
-PyTapAudioExtract.exe "C:\Path\To\YourFile.tap"
+python PyTapAudioExtract.py "C:\Path\To\YourFile.tap"
 ```
