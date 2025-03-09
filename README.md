@@ -29,3 +29,11 @@ import tempfile
 from plistlib import UID
 from PIL import Image
 ```
+
+## how to use the pytap audio extractor
+
+youll need ffmpeg installed on your computer
+
+```
+PyTapAudioExtract.exe "C:\Path\To\YourFile.tap"
+```
